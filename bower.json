@@ -1,10 +1,10 @@
 {
   "name": "jsmockito",
   "version": "1.0.4",
-  "homepage": "https://github.com/cleishm/jsmockito",
+  "homepage": "https://github.com/jackmatt2/jsmockito-bower",
   "authors": [
     "Chris Leishman <chris@leishman.org>",
-    "Jack Matthews <jackmatt2@gmail.com>",
+    "Jack Matthews <jackmatt2@gmail.com>"
   ],
   "description": "Mocking library based on the Java Mockito library",
   "main": "build.xml",
@@ -16,7 +16,8 @@
     "javascript",
     "mocks",
     "mockito",
-    "jsmockito"
+    "jsmockito",
+    "unit testing"
   ],
   "license": "LICENSE",
   "ignore": [
