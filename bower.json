@@ -1,0 +1,30 @@
+{
+  "name": "jsmockito",
+  "version": "1.0.4",
+  "homepage": "https://github.com/cleishm/jsmockito",
+  "authors": [
+    "Chris Leishman <chris@leishman.org>",
+    "Jack Matthews <jackmatt2@gmail.com>",
+  ],
+  "description": "Mocking library based on the Java Mockito library",
+  "main": "build.xml",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "mocking",
+    "javascript",
+    "mocks",
+    "mockito",
+    "jsmockito"
+  ],
+  "license": "LICENSE",
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jshamcrest": ">=0.6.3",
+    "jquery": ">=1.3.2"
+  }
+}
